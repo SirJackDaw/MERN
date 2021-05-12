@@ -1,0 +1,7 @@
+{
+    "mongoUri":"mongodb://dmitry:jocker117@cluster0-shard-00-00.ktv85.mongodb.net:27017,cluster0-shard-00-01.ktv85.mongodb.net:27017,cluster0-shard-00-02.ktv85.mongodb.net:27017/linkshort?ssl=true&replicaSet=atlas-uojvw5-shard-0&authSource=admin&retryWrites=true&w=majority",
+    "PORT": 5000,
+    "jwtSecret": "my test mern jwt secret",
+    "baseUrl": "http://localhost:5000"
+}
+ 
